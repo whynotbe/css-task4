@@ -1,0 +1,156 @@
+body{
+    margin:0 auto;
+    max-width:720px;
+    background-color:rgb(239,240,244);
+
+
+}
+.box{
+    height:77.5rem;
+    border:1px #ffffff solid;
+    background-color:rgb(239,240,244);
+}
+header{
+    float:left;
+    width:100%;
+    height:5.5rem;
+    background-color:rgb(90,192,206);
+}
+header div{
+    float:left;
+    line-height:5.5rem;
+    color:#ffffff;
+    font-family:SimSun,serif;
+}
+
+.close{
+    font-size:2rem;
+    line-height:5.5rem;
+    float:left;
+    width:17%;
+    text-align:center;
+    height:5.5rem;
+
+}
+.login{
+    font-size:2.25rem;
+    line-height:5.5rem;
+    float:left;
+    width:65%;
+    text-align:center;
+    height:5.5rem;
+}
+.register{
+    line-height:5.5rem;
+    font-size:2rem;
+    float:left;
+    width:17%;
+    text-align:center;
+    height:5.5rem;
+}
+.input1{
+    float:left;
+    margin-top:1rem;
+    background-color:#ffffff;
+    height:6.25rem;
+    width:100%;
+    text-align:center;
+}
+.icon1{
+    background-image:url(sources/accountIcon.png);
+    background-position:1.6875rem,2.625rem;
+    background-repeat:no-repeat;
+    width:16%;
+    height:6.25rem;
+    background-color:#ffffff;
+    float:left;
+}
+.line1{
+    float:left;
+    margin-top:1.75rem;
+    margin-left:-1rem;
+    height:2.5625rem;
+    width:2px;
+    background-color:rgb(239,240,244);
+}
+.phoneNumber{
+    background-color:#ffffff;
+    width:73%;
+    line-height:6.25rem;
+    font-size:2rem;
+    float:left;
+    border:none;
+    margin-top:0;
+    padding-left:0.625rem;
+    padding-top:0;
+    padding-bottom:0;
+    outline:none;
+
+}
+.input2{
+    float:left;
+    margin-top:1rem;
+    background-color:#ffffff;
+    height:6.25rem;
+    width:100%;
+    text-align:center;
+}
+.icon2{
+    background-image:url(sources/passwordIcon.png);
+    background-position:1.6875rem,2.625rem;
+    background-repeat:no-repeat;
+    width:16%;
+    height:6.25rem;
+    background-color:#ffffff;
+    float:left;
+}
+.line2{
+    float:left;
+    width:2px;
+    margin-top:1.75rem;
+    margin-left:-1rem;
+    background-color:rgb(239,240,244);
+    height:2.5625rem;
+}
+.password{
+    background-color:#ffffff;
+    height:6.25rem;
+    width:73%;
+    line-height:6.25rem;
+    font-size:2rem;
+    float:left;
+    border:none;
+    margin-top:0;
+    padding-left:0.625rem;
+    padding-top:0;
+    padding-bottom:0;
+    outline:none;
+}
+.confirm{
+    width:100%;
+    margin-top:4.5rem;
+    background-color:rgb(239,240,244);
+    height:10rem;
+    float:left;
+}
+.submit{
+    background-color:rgb(90,192,206);
+    height:6rem;
+    line-height:6rem;
+    text-align:center;
+    color:#ffffff;
+    font-size:2.25rem;
+    font-family:SimSun,serif;
+    letter-spacing:1.5rem;
+    padding-left:1.5rem;
+    width:100%;
+}
+.getPassword{
+    margin-top:1rem;
+    font-family:simHei,serif;
+    float:right;
+    margin-right:2rem;
+    color:rgb(90,192,206);
+    letter-spacing:0.4rem;
+    font-size:2rem;
+}
